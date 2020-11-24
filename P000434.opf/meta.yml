@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB4593
   title: ནགས་ཀློང་ཁུ་བྱུག་འདུ་གནས
-  volume: ''
+  volume:
+    24eb1932854b495b987f64205fdc6e2e:
+      image_group_id: I1PD28034
+      title: Volume 1 of nags klong khu byug 'du gnas
+      volume_number: 1
+      total_pages: 676
   author: ''
+ebook_metadata:
+  title: ནགས་ཀློང་ཁུ་བྱུག་འདུ་གནས
+  author: ''
+  sku: P000434
+  cover: cover.jpg
+  layers:
+  - pagination
